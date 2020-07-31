@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #e97171;
+}
+button{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 10px;
+    background: #f5f1da;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    outline : none;
+}
